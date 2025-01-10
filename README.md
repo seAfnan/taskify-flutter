@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![taskify](https://github.com/user-attachments/assets/8fd98361-71d5-4c6f-88ff-07c6a826f343)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
